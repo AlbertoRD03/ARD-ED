@@ -1,0 +1,1 @@
+El objetivo de este ejercicio es que los estudiantes practiquen Git y GitHub en un entorno de trabajo realista, sincronizando un repositorio remoto con su entorno local. Durante la práctica, se llevarán a cabo tareas como confirmación de cambios (commits), creación y fusión de ramas, subida de cambios al repositorio remoto y resolución de conflictos.
